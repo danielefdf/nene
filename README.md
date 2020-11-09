@@ -110,7 +110,7 @@ And based on these flags, shows the following graphs
 
 ![plots](https://github.com/danielefdf/nene/blob/main/docs/plots.bmp)
 
-- circled points are the evaluation data
+- circled points on the input graph are the evaluation points
 
 ![neural network plot](https://github.com/danielefdf/nene/blob/main/docs/nnplot.gif)
 
