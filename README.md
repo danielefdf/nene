@@ -16,34 +16,34 @@ The elements of the project are as follows.
 
 - cost.py: functions and derivatives for different types of activation function
 
-    ABS_ERROR  # absolute difference
-    QUADRATIC  # quadratic error
+    - ABS_ERROR  # absolute difference
+    - QUADRATIC  # quadratic error
 
 - datasetxy.py: functions for input selection
 
-    ALL     # all points of the plane
-    RANDOM  # random selected points from the plane
+    - ALL     # all points of the plane
+    - RANDOM  # random selected points from the plane
 
 - initialization.py: functions for different types of initialization (weights and biases)
 
     weights
-        ZERO    # initialization with zero
-        RANDOM  # random gaussian distribution
+        - ZERO    # initialization with zero
+        - RANDOM  # random gaussian distribution
     biases
-        ZERO      # initialization with zero
-        RANDOM    # random gaussian distribution
-        CONSTANT  # constant initialization
+        - ZERO      # initialization with zero
+        - RANDOM    # random gaussian distribution
+        - CONSTANT  # constant initialization
 
 - regularization.py: functions for different types of regularization
 
-    NONE  # no regularization
-    L1    # L1 regularization
-    L2    # L2 regularization
+    - NONE  # no regularization
+    - L1    # L1 regularization
+    - L2    # L2 regularization
 
 - training.py: types of training
 
-    GRADIENT_D   # gradient descent
-    STOCHSTC_GD  # stochastic gradient descent
+    - GRADIENT_D   # gradient descent
+    - STOCHSTC_GD  # stochastic gradient descent
 
 ### monitor
 
