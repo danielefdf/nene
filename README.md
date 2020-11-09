@@ -24,15 +24,11 @@ The elements of the project are as follows.
     - ALL     # all points of the plane
     - RANDOM  # random selected points from the plane
 
-- initialization.py: functions for different types of initialization (weights and biases)
+- initialization.py: functions for different types of initialization (for weights and biases)
 
-    - weights
-        - ZERO    # initialization with zero
-        - RANDOM  # random gaussian distribution
-    - biases
-        - ZERO      # initialization with zero
-        - RANDOM    # random gaussian distribution
-        - CONSTANT  # constant initialization
+    - ZERO      # initialization with zero
+    - RANDOM    # random gaussian distribution
+    - CONSTANT  # constant initialization
 
 - regularization.py: functions for different types of regularization
 
@@ -55,10 +51,10 @@ The elements of the project are as follows.
 
 ### test
 
-- test.and.py: ???
-- test.classn.binflags.py: ???
-- test.classn.binvalues.py: ???
-- test.classn.example.py: ???
-- test.clustg.autoencdr.py: ???
-- test.regrsn.py: ???
+- test.and.py: Neural Representation of AND logic gate
+- test.classn.binflags.py: a classification for two values, with output as flags ([1,0], [0,1])
+- test.classn.binvalues.py: a classification for two values, with output as single values ([0], [1])
+- test.classn.example.py: a slightly more complex problem of classification
+- test.clustg.autoencdr.py: an example of autoencoder neural network
+- test.regrsn.py: a regression problem
 
