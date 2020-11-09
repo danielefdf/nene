@@ -114,7 +114,7 @@ And based on these flags, shows the following graphs
 
 ![neural network plot](https://github.com/danielefdf/nene/blob/main/docs/nnplot.gif)
 
-
+This repository is licensed under MIT (c) 2020 GitHub, Inc.
 
 
 
