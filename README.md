@@ -51,9 +51,9 @@ The elements of the project are as follows.
 
 ### test
 
-- test.and.py: Neural Representation of AND logic gate
-- test.classn.binflags.py: a classification for two values, with output as flags ([1,0], [0,1])
-- test.classn.binvalues.py: a classification for two values, with output as single values ([0], [1])
+- test.and.py: neural network representation of an AND logic gate
+- test.classn.binflags.py: a classification for two values, with output as flags ([1,0] or [0,1])
+- test.classn.binvalues.py: a classification for two values, with output as single values ([0] or [1])
 - test.classn.example.py: a slightly more complex problem of classification
 - test.clustg.autoencdr.py: an example of autoencoder neural network
 - test.regrsn.py: a regression problem
