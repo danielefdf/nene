@@ -26,10 +26,10 @@ The elements of the project are as follows.
 
 - initialization.py: functions for different types of initialization (weights and biases)
 
-    weights
+    - weights
         - ZERO    # initialization with zero
         - RANDOM  # random gaussian distribution
-    biases
+    - biases
         - ZERO      # initialization with zero
         - RANDOM    # random gaussian distribution
         - CONSTANT  # constant initialization
