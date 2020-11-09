@@ -7,12 +7,12 @@ The elements of the project are as follows.
 
 - activation.py: functions and derivatives for different types of activation function
 
-    STEP     # step function - perceptrons
-    LINEAR   # linear function
-    SIGMOID  # sigmoid
-    TANH     # tanh
-    RELU     # ReLU
-    L_RELU   # leaky ReLU
+    - STEP     # step function - perceptrons
+    - LINEAR   # linear function
+    - SIGMOID  # sigmoid
+    - TANH     # tanh
+    - RELU     # ReLU
+    - L_RELU   # leaky ReLU
 
 - cost.py: functions and derivatives for different types of activation function
 
