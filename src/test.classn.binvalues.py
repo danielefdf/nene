@@ -47,7 +47,7 @@ if __name__ == '__main__':
     reg_type          = rr.Type.NONE
     reg_lambda        = 0.01
     learng_eta        = 0.03
-    epochs            = 5001
+    epochs            = 50001
     batch_size        = 0  # len(traing_x)
 
     input_log = True
