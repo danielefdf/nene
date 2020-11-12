@@ -14,7 +14,7 @@ The elements of the project are as follows.
     - RELU     # ReLU
     - L_RELU   # leaky ReLU
 
-- cost.py: functions and derivatives for different types of activation function
+- cost.py: functions and derivatives for different types of cost function
 
     - ABS_ERROR  # absolute difference
     - QUADRATIC  # quadratic error
